@@ -17,9 +17,9 @@ import java.net.URL;
 
 public class UploadVideoDemo {
     //账号AK信息请填写(必选)
-    private static final String accessKeyId = "LTAI4IdMfKVlAhlw";
+    private static final String accessKeyId = "Customer AccessKey";
     //账号AK信息请填写(必选)
-    private static final String accessKeySecret = "UY1A38MggfqgeTKoCaS8PScVPDxV0r";
+    private static final String accessKeySecret = "Customer Sec Key";
 
     public static void main(String[] args) {
         // 一、视频文件上传
